@@ -1,0 +1,111 @@
+[{
+        "id": 0,
+        "name": "Oxid",
+        "city": "Stockholm",
+        "address": "adressen 1, 186 50",
+        "admin": "asg",
+        "open": {
+            "monday": "Stängt",
+            "tuesday": "Stängt",
+            "wednsday": "Stängt",
+            "thursday": "Stängt",
+            "friday": "21:00-03:00",
+            "saturday": "21:00-03:00",
+            "sunday": "Stängt"
+        },
+        "ownFloors": ["Main floor", "Small Floor"],
+        "floors": [{
+                "day": "friday",
+                "name": "Main floor",
+                "dj": "BBY Guzi",
+                "time": "21:00-01:00",
+                "genre": "Hip-Hop"
+            },
+            {
+                "day": "friday",
+                "name": "Main floor",
+                "dj": "Sally",
+                "time": "01:00-03:00",
+                "genre": "Hip-Hop"
+            },
+            {
+                "day": "friday",
+                "name": "Small floor",
+                "dj": "BurgErsson",
+                "time": "21:00-03:00",
+                "genre": "RnB"
+            },
+            {
+                "day": "saturday",
+                "name": "Main floor",
+                "dj": "Zodak",
+                "time": "21:00-03:00",
+                "genre": "Hip-Hop"
+            },
+            {
+                "day": "saturday",
+                "name": "Small floor",
+                "dj": "Sandro",
+                "time": "21:00-03:00",
+                "genre": "Hip-Hop"
+            }
+        ],
+        "img": "https://images.staticjw.com/tur/2816/oxid.jpg"
+    },
+    {
+        "id": 1,
+        "name": "The Public",
+        "city": "Stockholm",
+        "address": "adressen 1, 186 50",
+        "admin": "asg",
+        "open": {
+            "monday": "Stängt",
+            "tuesday": "Stängt",
+            "wednsday": "21:00-02:00",
+            "thursday": "Stängt",
+            "friday": "21:00-03:00",
+            "saturday": "21:00-03:00",
+            "sunday": "Stängt"
+        },
+        "ownFloors": ["Main floor", "Small Floor"],
+        "floors": [{
+                "day": "friday",
+                "name": "Main floor",
+                "dj": "BBY Guzi",
+                "time": "21:00-01:00",
+                "genre": "Hip-Hop"
+            },
+            {
+                "day": "friday",
+                "name": "Main floor",
+                "dj": "Sally",
+                "time": "01:00-03:00",
+                "genre": "Hip-Hop"
+            },
+            {
+                "day": "friday",
+                "name": "Small floor",
+                "dj": "BurgErsson",
+                "time": "21:00-03:00",
+                "genre": "RnB"
+            },
+            {
+                "day": "saturday",
+                "name": "Main floor",
+                "dj": "Zodak",
+                "time": "21:00-03:00",
+                "genre": "Hip-Hop"
+            },
+            {
+                "day": "saturday",
+                "name": "Small floor",
+                "dj": "Sandro",
+                "time": "21:00-03:00",
+                "genre": "Hip-Hop"
+            }
+        ],
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdx7bMqV-L5fQg138AkYsCYBzeePXnZyGKFcjsgksCZcWzjdCPw9nRQrpqxpNcek1XHlY&usqp=CAU"
+
+
+    }
+]

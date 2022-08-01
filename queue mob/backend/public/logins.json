@@ -1,0 +1,43 @@
+[{
+    "firstName": "Alessandro",
+    "lastName": "Gasperini",
+    "userName": "asg",
+    "password": "asg",
+    "dob": "1997-08-10-8551",
+    "email": "asg.gasperini@gmail.com"
+}, {
+    "firstName": "Moa",
+    "lastName": "Tagesson",
+    "userName": "moa",
+    "password": "billie",
+    "dob": "1997-12-02-2095",
+    "email": "moa.tagesson@gmail.com"
+}, {
+    "firstName": "Billie",
+    "lastName": "Tagesson",
+    "userName": "Busmus",
+    "password": "godis",
+    "dob": "2019-07-05",
+    "email": "billie@bofink@gmail.se"
+}, {
+    "firstName": "Jacob",
+    "lastName": "Droptz",
+    "userName": "Dropz",
+    "password": "dear",
+    "dob": "1997-04-05",
+    "email": "Jacob.droptz@hotmail.com"
+}, {
+    "firstName": "Jakob",
+    "lastName": "Ekwall",
+    "userName": "Jakie",
+    "password": "jajaja",
+    "dob": "1997-07-06",
+    "email": "jajajja"
+}, {
+    "firstName": "Billie",
+    "lastName": "Tagesson",
+    "userName": "Bofink19",
+    "password": "godis",
+    "dob": "2019-05-25",
+    "email": "Billie.busmus@gmail.bark"
+}]
